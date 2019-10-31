@@ -1,23 +1,24 @@
 ===================================
+오차있음 너무믿진말것, maybe have a error so dont believe so much
+$1 = 1170.97won
 1 coin = 150 marret / anime epic costume : true
 [Dismentle] If other epic: false / If duplicated epic: true
 Sample: 100000 samples
 [E] Earing [H] Hat [G] Glove [F] Shoes(Feet) [C] Cape [S] suite [R] Other Epic
-E(X): 14793 marret.
+E(X): 14781 marret.
 ===================================
-[first] Used Marret: 2250, Coin: 9, Log: _C_E_F____G__SH
-[1%] Used Marret: 5850, Coin: 33, Log: S___________G_E_____F___C____EG_______H
-[5%] Used Marret: 8700, Coin: 49, Log: __C_____R___S_________C_R___H_RR___C____F_______E________G
-[10%] Used Marret: 10500, Coin: 59, Log: _RR__C___HF__H___R_F_S____C__E__________E_E___R______RR___RR_____R_R_G
-[20%] Used Marret: 12150, Coin: 69, Log: _____C_R________F___HR__ER___R_RR_______R__GR___E__________R__H___RR____________S
-[30%] Used Marret: 12900, Coin: 76, Log: EH_________R__C__S___R_FRRR_F_____R_R_______F_RR_____F_R__R_R____________EC__R_R______
-[40%] Used Marret: 13500, Coin: 79, Log: ___R_____R_________R_F_R___R_____C_R__R_________F___C___HRR__G______H__________R__RR_____S
-[50%] Used Marret: 13800, Coin: 81, Log: RF___FRFFR__RH___G_R_RR__R__ER_E___________R__R__E____H_G___R__R__S__GR_________R______R____
-[60%] Used Marret: 14400, Coin: 86, Log: _____RR__R_______R______H____H__E_R___R____E_FR___H____SR_RS___________R_R___RR_R____RRR__F____G
-[70%] Used Marret: 15300, Coin: 91, Log: RR_____R____E___R_______RR__R____F__________R__FR___S__C__R__R____R__ER_______R___R_C____R_____R_____H
-[80%] Used Marret: 17700, Coin: 107, Log: __E______FH____S__R_R__R________R_R______SFR____R___________S__R___RR___R__EH____R_E_R__R_R__S__________S__F_________C
-[90%] Used Marret: 21300, Coin: 131, Log: RR__R________________R_____R_______RE__C__R__G_R__RGR_____R__R____R____R_____R_____R_____R______RR_RR_C__R__E__R______R____C________FR_______H
-[95%] Used Marret: 23850, Coin: 149, Log: __________H__R__G_R___R__H________S_FRR__________S_______RR________R_F__R___________R_R__GR_R_____HF_R_______H__R__R_____________S___R_RR___SRS_R__________S_H_
-[99%] Used Marret: 25800, Coin: 162, Log: _________R_R_E___________R_R___R__R___R______RR_RH__R_CR__R_R_FR____RR______R__R_R__R_R__R________R_R___R_F___R__R_H_____F________R_______R__RF____R_________R________R_C__R
-[last] Used Marret: 38550, Coin: 248, Log: ___________F__R__RRR________R______RF______R_G______R___RR___________RR___R__________R__G__R___G_________F_R_____R_E_R_________R_R__R___G__G__FR____R___________R_____RF__RE_____R_____________R_______E___R______F_RR___F_________________R__R__R_R____________R
+[first] | 15653원 | $13.37 | 1800 Marret | 6 Coin | Log: G______HCFES
+[1%] | 50870원 | $43.44 | 5850 Marret | 29 Coin | Log: _R__H_____S____E__CR__R_R_____RH____RFG
+[5%] | 75653원 | $64.61 | 8700 Marret | 49 Coin | Log: _________G_GS_______G_ERS_F__F_R_RE_F_RR____R__H__R__R_G_C
+[10%] | 91305원 | $77.97 | 10500 Marret | 58 Coin | Log: G______R___R___H_R__R_R__RRG__R_ERR_RR_H____H__R___________H____F_C__S
+[20%] | 104348원 | $89.11 | 12000 Marret | 68 Coin | Log: ________F__HRR___E__RG__R__G____RR_G__R________R_E_R__C_R_R_______RH_H____R____S
+[30%] | 112174원 | $95.8 | 12900 Marret | 76 Coin | Log: __________E_______C____R_R_R_____RHS_______RC___RC___R___R_R______FFRS___R__R__E__F___
+[40%] | 117392원 | $100.25 | 13500 Marret | 78 Coin | Log: R__H___R_____________R_______R_____H_E_R_G________R_R___R_______F_R___S__G_R____R__F_R_R_C
+[50%] | 120000원 | $102.48 | 13800 Marret | 81 Coin | Log: _R__R_G______RF___R______FE____RS_FR_RE___RRR_____F_________R___SF_RR___R____RG___H______E__
+[60%] | 125218원 | $106.94 | 14400 Marret | 86 Coin | Log: _____G__R__R___E_R_________________F_____R_______R_____FR_R__H_____H__R__G_H_R_R_RR_C___RR______
+[70%] | 133044원 | $113.62 | 15300 Marret | 92 Coin | Log: ____R__R_C__G___E___C______RR_C_____F_______R___________RR________R_______RR___R__RR_________R______RS
+[80%] | 153914원 | $131.44 | 17700 Marret | 107 Coin | Log: E_R_____________R__ERR__E_RE_____RR_____S___E_______F______RR______R_G____RR_____R_______E___________R_______RR_R__R_C[90%] | 185218원 | $158.17 | 21300 Marret | 131 Coin | Log: R_R___R_H___S___R___RR_____RG___________H__EE_R_________R_____E_________RRG__R____H____RRR_____ER_R__RRR__R________R___R__R__RR_RR__E___R___EF
+[95%] | 207392원 | $177.11 | 23850 Marret | 149 Coin | Log: __SRSRC_RC______CR________R______R__R______RR____RR____R__R_R__R___R__________F__FS_____C_____CR__R____R__R_______RRR____S____R______R___R______RG________RR___
+[99%] | 225653원 | $192.71 | 25950 Marret | 163 Coin | Log: ____R_______RH___S____R____R_____R______________R_C________R_H___RC__S_R_C________________R______R_R__RS_RSR_______________R__S___RRH________SR___R____S_______R_________RRHF
+[last] | 335218원 | $286.27 | 38550 Marret | 248 Coin | Log: _______RR_______R_____R_E____RE____E_R___________R___________E__R__F___E_RR_R____R_E____E__RRR______________R___F__R__R__R_____R__R_______RRR_R_R___R_____R__R___________R______R_RR__G__R__GF_______R__F__________R____R__________R__E__R__R___R_RR_R_R_______R_
 ===================================

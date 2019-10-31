@@ -3,6 +3,7 @@ const dismentleEvenIfEpic = false // calc even if epic for skin
 const dismentleDuplicate = true
 const forAnime = true // Want to anime costume?
 const loopN = 100000
+const onedallor = 1170.97
 
 /**
  * Anime costume percentage in gatcha (%)
@@ -49,7 +50,9 @@ const epicSafety = {
     suit: 65
 }
 function logResult(i, result) {
-    console.log(`[${i}] Used Marret: ${result.usedMarret}, Coin: ${result.coin}, Log: ${result.log}`)
+    const won = Math.ceil(result.usedMarret/3450*30000)
+    const dallor = Math.round((won / onedallor) * 100) / 100
+    console.log(`[${i}] | ${won}원 | $${dallor} | ${result.usedMarret} Marret | ${result.coin} Coin | Log: ${result.log}`)
 }
 function buyall() {
     let log = ""
@@ -188,6 +191,8 @@ tests.sort((a, b) => {
 })
 const sample = [0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 0.99]
 console.log(`===================================`)
+console.log(`오차있음 너무믿진말것, maybe have a error so dont believe so much`)
+console.log(`$1 = ${onedallor}won`)
 console.log(`1 coin = ${oneGatcha} marret / anime epic costume : ${forAnime}`)
 console.log(`[Dismentle] If other epic: ${dismentleEvenIfEpic} / If duplicated epic: ${dismentleDuplicate}`)
 console.log(`Sample: ${loopN} samples`)
